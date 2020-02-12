@@ -64,11 +64,11 @@ namespace Com.MyCompany.MyGame
 
         #region Public Methods
 
-        public void LeaveRoom()
-        {
-            Debug.Log("Leave Room");
-            PhotonNetwork.LeaveRoom();
-        }
+        //public void LeaveRoom()
+        //{
+        //    Debug.Log("Leave Room");
+        //    PhotonNetwork.LeaveRoom();
+        //}
 
         #endregion
     }
