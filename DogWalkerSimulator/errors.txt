@@ -1,0 +1,10 @@
+﻿I'm sorry, but errors were detected in your script. Please correct the
+errors listed below, and try again.
+
+
+File "game/script.rpy", line 131: Line is indented, but the preceding say statement statement does not expect a block. Please check this line's indentation.
+    "Trixie heared a very distant but familiar sound.. but it was not enough to stop her leaping from the bank into the river."
+    ^
+
+Ren'Py Version: Ren'Py 7.3.5.606
+Sun Feb 16 14:43:12 2020

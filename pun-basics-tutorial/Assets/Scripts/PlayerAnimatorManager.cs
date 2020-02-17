@@ -38,10 +38,10 @@ namespace Com.MachineApps.Tutorial
                 return;
             }
 
-            // deal with Jumping
+            // Deal with Jumping
             AnimatorStateInfo stateInfo = animator.GetCurrentAnimatorStateInfo(0);
 
-            // only allow jumping if we are running.
+            // Only allow jumping if we are running
             if (stateInfo.IsName("Base Layer.Run"))
             {
                 // When using trigger parameter
